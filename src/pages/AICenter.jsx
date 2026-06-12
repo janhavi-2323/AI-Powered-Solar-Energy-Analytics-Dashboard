@@ -7,7 +7,7 @@ from "react-icons/fa"
 import {
   askSolarAI
 }
-from "../services/gemini"
+from "../services/aiService"
 
 function AICenter() {
 

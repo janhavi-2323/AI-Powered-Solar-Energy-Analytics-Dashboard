@@ -6,7 +6,7 @@ from "../context/weatherContext"
 import {
   getSolarAdvice
 }
-from "../services/gemini"
+from "../services/aiService"
 
 import ScoreCard
 from "./ScoreCard"
